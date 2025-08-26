@@ -96,8 +96,6 @@ cd frontend && npm test
 - **Database:** PostgreSQL
 - **Authentication:** JWT
 
-## Short Video Demo
-Check [Demo Video](https://youtu.be/SwHZSdhL2-w) for a quick walkthrough.
 
 ## Notes
 
@@ -107,6 +105,3 @@ Check [Demo Video](https://youtu.be/SwHZSdhL2-w) for a quick walkthrough.
 - **Bootstrap** is used for styling.
 - Error handling is implemented for API calls.
 
-## Salary Expectations
-
-- **Monthly Salary Expectation:** $8,000 - $10,000 USD
